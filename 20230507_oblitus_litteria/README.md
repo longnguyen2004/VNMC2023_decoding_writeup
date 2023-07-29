@@ -1,6 +1,4 @@
-# VNMC2023 Decoding Writeup
-
-This is a detailed outline of each and every step of my journey on decoding the VNMC2023 cipher challenge (file included in the repo)
+# 2023/05/07: `oblitus_litteria.docx`
 
 ## 1. The Word file
 
